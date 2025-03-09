@@ -42,5 +42,5 @@ The API allows users to:
    git clone https://github.com/yourusername/ecommerce-api-graphql.git
    cd ecommerce-api-graphql
 
-**View Other such Node.js Projects:** https://www.mygreatlearning.com/blog/top-node-js-projects/
+View other such [Node.js Projects](https://www.mygreatlearning.com/blog/top-node-js-projects/)
 
